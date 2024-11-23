@@ -6,7 +6,7 @@ Dust is a media server focused around ebooks and comics. Think Plex, but for peo
 
 ## Folder Structure
 
-Assuming you have a drive labled "M" and you want that drive to be indexed by Dust, you should structure your media like so:
+Assuming you have a drive labeled "M" and you want that drive to be indexed by Dust, you should structure your media like so:
 
 ```
 M:
